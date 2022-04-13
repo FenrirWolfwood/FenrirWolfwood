@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding skills.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ... it's too early for that, I still have a lot to learn, sorry.
-- 📫 How to reach me ...
+- 📫 You can reach me by mail at fenrir_wolfwood@protonmail.com
 
 <!---
 FenrirWolfwood/FenrirWolfwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
